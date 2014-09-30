@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "First Post"
+date:   2014-09-30 14:40:49
+categories: Misc
+---
+Hello World,
+This is my first post in this Blog. I am Jan, 25 years old and mainly I am studying Informatik. I am not that kind of person who is totally into computer sience and pretty confident with a specific programming language. I use programm languages mostly to do my Jobs. Therefor I learn a lot about programming and get a good overview about Software Engeneering.
+This Blog should be a little treasure for my experience. If I learn something try to put everything together and post it to this Blog. I don't know if anybody is interested but this could be helpful for me.
+So far,
+Jan
